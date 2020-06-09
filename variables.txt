@@ -1,0 +1,19 @@
+var food = ("nuggets");
+
+isDelicious = true;
+
+food = "pizza";
+
+var num2 = 2;
+
+var num7 = 4;
+
+var quotient = 4 / 2;//= 2;
+
+var songs = ["dive", "apogee", "a walk"];
+
+firstElement = songs.shift();
+
+console.log(songs);
+
+console.log(food.length);
